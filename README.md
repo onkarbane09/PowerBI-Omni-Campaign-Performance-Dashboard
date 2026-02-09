@@ -20,6 +20,6 @@ Data Source: Monthly marketing and sales data extracted from SharePoint Online (
 
 Transformation Layer: Data cleaned and modeled in Power Query; metrics standardized across channels and client verticals.
 
-Modeling: Relationships established between tables — Campaigns, Spend, Leads, Channels, and SalesRep — to support advanced DAX measures.
+Modeling: Relationships established between tables  Campaigns, Spend, Leads, Channels, Date etc to support advanced DAX measures.
 
 Visualization: Interactive Power BI report published for stakeholder access via the internal workspace.
